@@ -161,9 +161,10 @@
 
 .sectionbelowbanner {
   height: auto;
+  margin: 0px 50px;
 }
 
-.sectionbelowbanner p {
+.sectionbelowbannertext p {
   font-size: 30px;
   color: #032d60;
   text-align: center;
@@ -172,3 +173,14 @@
   padding-bottom: 40px;
 }
 
+
+.col3{
+  display: flex;
+  gap: 20px;
+}
+
+.col3 img{
+ width: 100%;
+ border-top-right-radius: 20px;
+ border-top-left-radius: 20px;
+}
