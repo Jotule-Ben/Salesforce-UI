@@ -64,8 +64,8 @@
   cursor: pointer;
 }
 
-.contact p:first-of-type:hover{
- color: #33769d;
+.contact p:first-of-type:hover {
+  color: #33769d;
 }
 
 .nav-link span {
@@ -101,65 +101,74 @@
   padding-right: 10px;
 }
 
-
-.bannersection{
- height: 500px;
- display: flex;
- padding-top: 100px;
+.bannersection {
+  height: 500px;
+  display: flex;
+  padding-top: 100px;
+  margin-bottom: 100px;
 }
 
-.bannertexts{
- padding-top: 80px;
- padding-left: 60px;
+.bannertexts {
+  padding-top: 80px;
+  padding-left: 60px;
 }
 
-.bannertexts h1{
- font-size: 40px;
- color: #032d60;
- font-family: "Arial black";
+.bannertexts h1 {
+  font-size: 40px;
+  color: #032d60;
+  font-family: "Arial black";
 }
 
-.bannertexts p{
- padding-top: 19px;
- font-size: 20px;
- font-family: Arial, Helvetica, sans-serif;
- color: #050f1b;
- line-height: 1.5;
- font-weight: 500;
+.bannertexts p {
+  padding-top: 19px;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #050f1b;
+  line-height: 1.5;
+  font-weight: 500;
 }
 
-.bannersection button:first-of-type{
- margin-top: 28px;
- padding: 15px 25px;
- background-color:blue;
- border: blue;
- cursor: pointer;
- color: #fff;
- font-size: 18px;
- border-radius: 5px;
+.bannersection button:first-of-type {
+  margin-top: 28px;
+  padding: 15px 25px;
+  background-color: blue;
+  border: blue;
+  cursor: pointer;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 5px;
 }
 
-.bannersection button:first-of-type:hover{
-background-color: #032d60;
+.bannersection button:first-of-type:hover {
+  background-color: #032d60;
 }
 
-.bannersection button:last-of-type{
- margin-left: 10px;
- padding: 13px 25px;
- background-color:#fff;
- border:2px solid blue;
- cursor: pointer;
- color: blue;
- font-size: 18px;
- border-radius: 5px;
+.bannersection button:last-of-type {
+  margin-left: 10px;
+  padding: 13px 25px;
+  background-color: #fff;
+  border: 2px solid blue;
+  cursor: pointer;
+  color: blue;
+  font-size: 18px;
+  border-radius: 5px;
 }
 
-
-.bannersection button:last-of-type:hover{
-background-color: rgb(221, 237, 242);
-border:2px solid #050f1b;
+.bannersection button:last-of-type:hover {
+  background-color: rgb(221, 237, 242);
+  border: 2px solid #050f1b;
 }
 
-.sectionbelowbanner{
- height: 500px;
+.sectionbelowbanner {
+  height: auto;
 }
+
+.sectionbelowbanner p {
+  font-size: 30px;
+  color: #032d60;
+  text-align: center;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 40px;
+}
+
