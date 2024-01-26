@@ -159,3 +159,7 @@ background-color: #032d60;
 background-color: rgb(221, 237, 242);
 border:2px solid #050f1b;
 }
+
+.sectionbelowbanner{
+ height: 500px;
+}
