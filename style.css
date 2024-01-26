@@ -46,7 +46,7 @@
 }
 
 .navlinks a:hover {
-  color: #3b708e;
+  color: #33769d;
 }
 
 .nav-link {
@@ -65,8 +65,13 @@
   cursor: pointer;
 }
 
+.contact p:first-of-type:hover{
+ color: #33769d;
+}
+
 .nav-link span {
   padding-left: 3px;
+  cursor: pointer;
 }
 
 .nav-link img {
@@ -74,6 +79,7 @@
   height: 30px;
   margin-left: 15px;
   padding-top: 8px;
+  cursor: pointer;
 }
 
 .nav-link button {
