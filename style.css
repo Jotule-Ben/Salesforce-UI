@@ -294,7 +294,7 @@
  height: auto;
 }
 
-.learn p{
+ .learn p{
 color: #032d60;
   font-size: 30px;
   font-weight: 600;
@@ -303,5 +303,15 @@ color: #032d60;
   margin-right: 230px;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  text-wrap: wrap;
+}
+
+.col4{
+ display: flex;
+ gap: 30px;
+ margin-left: 50px;
+ margin-right: 50px;
+}
+
+.col4 img{
+ width: 90%;
 }
