@@ -173,14 +173,119 @@
   padding-bottom: 40px;
 }
 
-
-.col3{
+.col3 {
   display: flex;
-  gap: 20px;
+  gap: 30px;
 }
 
-.col3 img{
- width: 100%;
- border-top-right-radius: 20px;
- border-top-left-radius: 20px;
+.col3 img {
+  width: 100%;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  cursor: pointer;
+}
+
+.col3texts1 {
+  background-color: #fff;
+  color: #050f1b;
+  font-size: 23px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px 40px;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  box-shadow: 2px 3px 7px 0px #b1afaf;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.col3texts1 p:last-of-type {
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+.col3texts1 p:hover {
+  color: #33769d;
+}
+
+.col3texts1 a {
+  color: #050f1b;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+.col3texts1 a:hover {
+  color: #33769d;
+}
+
+.col3texts2 {
+  background-color: #fff;
+  color: #050f1b;
+  font-size: 23px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px 20px;
+  padding-bottom: 40px;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  box-shadow: 2px 3px 7px 0px #b1afaf;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.col3texts2 p:last-of-type {
+  padding-top: 47px;
+  padding-bottom: 7px;
+}
+
+.col3texts2 p:hover {
+  color: #33769d;
+}
+
+.col3texts2 a {
+  color: #050f1b;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.col3texts2 a:hover {
+  color: #33769d;
+}
+
+.col3texts3 {
+  background-color: #fff;
+  color: #050f1b;
+  font-size: 23px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 30px;
+  margin-bottom: 10px;
+  margin-top: -5px;
+  box-shadow: 2px 3px 7px 0px #b1afaf;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.col3texts3 p {
+  padding-bottom: 19px;
+}
+
+.col3texts3 p:hover {
+  color: #33769d;
+}
+
+.col3texts3 a {
+  color: #050f1b;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.col3texts3 a:hover {
+  color: #33769d;
 }
