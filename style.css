@@ -446,15 +446,34 @@
 }
 
 .section4 button {
-  font-size: 25px;
-  padding: 20px;
+  font-size: 20px;
+  padding: 10px 20px;
   background-color: #fff;
   color: #0176d3;
   border: 2px solid #0176d3;
-  margin-left: 520px;
+  border-radius: 5px;
+  margin-left: 530px;
+  margin-bottom: 50px;
 }
 
 .section4 button:hover {
   background-color: #dedcdc;
   border: 2px solid #03101f;
+  color: #03101f;
+}
+
+.sec4logos {
+  display: flex;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 30px;
+}
+
+.sec4logos img {
+  width: 300px;
+  height: 120px;
+  box-shadow: 2px 3px 5px 3px #dedcdc;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 20px;
 }
