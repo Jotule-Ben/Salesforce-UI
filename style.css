@@ -396,7 +396,6 @@
   cursor: pointer;
 }
 
-
 .sec3img img {
   width: 60%;
   height: 60%;
@@ -406,24 +405,42 @@
   margin-left: 20px;
 }
 
-.sec3img p:hover{
- color: #0176d3;
- cursor: pointer;
+.sec3img p:hover {
+  color: #0176d3;
+  cursor: pointer;
 }
 
-.sec3img1 p{
-padding-right: 30px;
+.sec3img1 p {
+  padding-right: 30px;
 }
 
-.sec3img2 p{
-padding-right: 30px;
+.sec3img2 p {
+  padding-right: 30px;
 }
 
-.section4{
+.section4 {
   height: auto;
 }
 
-.section4 img{
+.section4 img {
   width: 100%;
   height: 100%;
+}
+
+.section4 h3 {
+  font-size: 38px;
+  color: #03101f;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 25px;
+  padding-left: 230px;
+  padding-right: 230px;
+}
+
+.section4 p {
+  font-size: 20px;
+  color: #03101f;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 30px;
 }
