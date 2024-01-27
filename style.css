@@ -480,10 +480,14 @@
 
 .section5 {
   height: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
 }
 
 .section5 h2 {
-  font-size: 35px;
+  font-size: 29px;
   color: #03101f;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -492,11 +496,57 @@
 }
 
 .section5 p {
-  font-size: 20px;
+  font-size: 17px;
   color: #03101f;
-  text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  padding-left: 300px;
-  padding-right: 300px;
   padding-bottom: 30px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.section5 h2 {
+  cursor: pointer;
+}
+
+.sec5col3 {
+  display: flex;
+  gap: 40px;
+  margin-bottom: 10px;
+}
+
+.sec5col3 img {
+  width: 70%;
+  cursor: pointer;
+  padding-top: 20px;
+  padding-left: 80px;
+}
+
+.sec5col3texts {
+  background-color: #fff;
+  color: #050f1b;
+  font-size: 23px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 25px;
+}
+
+.sec5col3texts {
+  box-shadow: 2px 3px 7px 3px #b1afaf;
+}
+
+.sec5col3texts p:last-of-type {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.sec5col3texts a {
+  color: #050f1b;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+.sec5col3texts a:hover {
+  text-decoration: none;
 }
