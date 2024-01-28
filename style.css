@@ -1069,3 +1069,25 @@ width: 150%;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
 }
+
+.secbelowcart3 button{
+  text-transform: capitalize;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 16px 25px;
+  background-color: #fff;
+  color: #0176d3;
+  border: 2px solid #0176d3;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 40px;
+margin-left: 10px;
+
+}
+
+.secbelowcart3 button:hover {
+  background-color: #dedcdc;
+  border: 2px solid #03101f;
+  color: #03101f;
+}
