@@ -658,3 +658,134 @@
   height: auto;
 }
 
+.sec7col3 {
+  display: flex;
+  gap: 30px;
+  margin: 30px 50px;
+}
+
+.sec7col3 img {
+  width: 100%;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  cursor: pointer;
+}
+
+.sec7col3texts {
+  background-color: #fff;
+  color: #050f1b;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec7col3texts p {
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.sec7col3texts1 {
+  padding: 30px 40px;
+  margin-top: -5px;
+  background-color: #fff;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  box-shadow: 2px 3px 7px 0px #b1afaf;
+}
+
+.sec7col3texts p:last-of-type {
+  font-size: 17px;
+  padding-top: 40px;
+  padding-bottom: 15px;
+}
+
+.sec7col3texts3 p:last-of-type {
+  padding-top: 65px;
+  /* padding-bottom: 20px; */
+}
+
+.sec7col3texts1 h6 {
+  margin-left: 5px;
+  margin-right: 250px;
+  margin-bottom: 10px;
+  color: #032d60;
+  padding: 10px;
+  background-color: #d2edff;
+  border-radius: 20px;
+}
+
+.sec7col3texts h2:hover {
+  color: #33769d;
+}
+
+.sec7col3texts h2 {
+  cursor: pointer;
+  font-size: 20px;
+  color: #032d60;
+  padding-bottom: 10px;
+}
+
+.sec7col3texts a {
+  color: #050f1b;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+.sec7col3texts a:hover {
+  color: #33769d;
+}
+
+.sec7col3texts2 {
+  padding: 30px 40px;
+  margin-top: -5px;
+  border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
+  box-shadow: 2px 3px 7px 0px #b1afaf;
+}
+
+.sec7col3texts2 p:last-of-type {
+  font-size: 17px;
+  padding-top: 32px;
+  padding-bottom: 15px;
+}
+
+.sec7col3texts2 h5 {
+  margin-left: 5px;
+  margin-right: 220px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  color: #032d60;
+  padding: 10px;
+  background-color: #d2edff;
+  border-radius: 20px;
+}
+
+.sec7col3texts2 h2:hover {
+  color: #33769d;
+}
+
+.sec7col3texts2 h2 {
+  cursor: pointer;
+}
+
+.sec7col3texts2 a {
+  color: #050f1b;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+.sec7col3texts2 a:hover {
+  color: #33769d;
+}
+
+.sec7col3texts img:first-of-type {
+  height: 50%;
+  width: 100%;
+}
+
+.section7col3 {
+  width: 31.5%;
+}
