@@ -1094,4 +1094,12 @@ margin-left: 10px;
 
 .sec10{
   height: auto;
+  margin-top: 100px;
+}
+
+.sec10 h1{
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+color: #032d60;
 }
