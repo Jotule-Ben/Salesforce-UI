@@ -510,7 +510,7 @@
   color: #032d60;
   font-family: Arial, Helvetica, sans-serif;
   padding-bottom: 30px;
-   text-align: center;
+  text-align: center;
   padding-left: 10px;
   padding-right: 5px;
   line-height: 1.5;
@@ -533,7 +533,7 @@
   padding-left: 80px;
 }
 
-.sec5col3texts  {
+.sec5col3texts {
   background-color: #fff;
   color: #050f1b;
   font-size: 20px;
@@ -542,7 +542,7 @@
   border-radius: 25px;
 }
 
-.sec5col3texts p{
+.sec5col3texts p {
   font-size: 18px;
 }
 
@@ -566,7 +566,7 @@
   text-decoration: none;
 }
 
-.section5 button{
+.section5 button {
   font-size: 18px;
   padding: 16px 25px;
   background-color: #fff;
@@ -579,18 +579,17 @@
   margin-left: 500px;
 }
 
-.section5 button:hover{
-   background-color: #dedcdc;
+.section5 button:hover {
+  background-color: #dedcdc;
   border: 2px solid #03101f;
   color: #03101f;
 }
 
-
-.secbelowsecondcart{
+.secbelowsecondcart {
   height: auto;
 }
 
-.secbelowsecondcart h1{
+.secbelowsecondcart h1 {
   font-size: 40px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
@@ -599,32 +598,32 @@
   margin-top: 90px;
 }
 
-.sec6col2{
+.sec6col2 {
   height: auto;
   display: flex;
   margin: 60px 50px;
 }
 
-.sec6col2text{
+.sec6col2text {
   padding-top: 60px;
   padding-right: 30px;
 }
 
-.sec6col2text h2{
+.sec6col2text h2 {
   font-size: 40px;
   color: #032d60;
   font-family: Arial, Helvetica, sans-serif;
   padding-bottom: 40px;
 }
 
-.sec6col2text p{
+.sec6col2text p {
   font-size: 20px;
-  color:#050f1b;
+  color: #050f1b;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 1.5;
 }
 
-.sec6col2text button{
+.sec6col2text button {
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
   padding: 16px 25px;
@@ -637,14 +636,15 @@
   margin-bottom: 40px;
 }
 
-.sec6col2text button:hover{
-   background-color: #dedcdc;
+.sec6col2text button:hover {
+  background-color: #dedcdc;
   border: 2px solid #03101f;
   color: #03101f;
 }
 
-.sec6col2img img{
-width: 90%;
-height: 100%;
-margin-left: 20px;
+.sec6col2img img {
+  width: 90%;
+  height: 100%;
+  margin-left: 20px;
 }
+
