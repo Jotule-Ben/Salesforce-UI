@@ -533,7 +533,7 @@
   padding-left: 80px;
 }
 
-.sec5col3texts {
+.sec5col3texts  {
   background-color: #fff;
   color: #050f1b;
   font-size: 20px;
@@ -544,7 +544,6 @@
 
 .sec5col3texts p{
   font-size: 18px;
- align-content: left;
 }
 
 .sec5col3texts {
@@ -553,12 +552,11 @@
 
 .sec5col3texts p:last-of-type {
   padding-top: 10px;
-  padding-bottom: 5px;
 }
 
 .sec5col3texts a {
   color: #032d60;
-  font-size: 14px;
+  font-size: 17px;
   font-weight: 600;
   font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
@@ -566,4 +564,23 @@
 
 .sec5col3texts a:hover {
   text-decoration: none;
+}
+
+.section5 button{
+  font-size: 18px;
+  padding: 16px 25px;
+  background-color: #fff;
+  color: #0176d3;
+  border: 2px solid #0176d3;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-left: 500px;
+}
+
+.section5 button:hover{
+   background-color: #dedcdc;
+  border: 2px solid #03101f;
+  color: #03101f;
 }
