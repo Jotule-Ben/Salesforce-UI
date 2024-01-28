@@ -648,3 +648,13 @@
   margin-left: 20px;
 }
 
+.col3sec7 {
+  background-image: url(./Assets/Sales25.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-bottom: 150px;
+  margin-bottom: 100px;
+  background-position: bottom;
+  height: auto;
+}
+
