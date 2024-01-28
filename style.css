@@ -1118,3 +1118,11 @@
 .sec10 button:hover {
   background-color: #032d60;
 }
+
+.sec10 img{
+  margin-top: 20px;
+  margin-left: 120px;
+  margin-right: 120px;
+  height: 100%;
+  width: 80%;
+}
