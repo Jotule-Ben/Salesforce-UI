@@ -1010,4 +1010,27 @@
 .moreabout2col3texts h2 {
   cursor: pointer;
   color: #032d60;
+  text-transform: capitalize;
+}
+
+.moreabout2 button{
+  text-transform: capitalize;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 16px 25px;
+  background-color: #fff;
+  color: #0176d3;
+  border: 2px solid #0176d3;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 60px;
+  margin-bottom: 40px;
+margin-left: 500px;
+
+}
+
+.moreabout2 button:hover {
+  background-color: #dedcdc;
+  border: 2px solid #03101f;
+  color: #03101f;
 }
