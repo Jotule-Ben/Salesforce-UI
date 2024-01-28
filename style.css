@@ -786,32 +786,15 @@
 }
 
 .section7col3 {
-  width: 31.5%;
+  width: 32%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 .moreabout {
   height: auto;
   margin: 40px 50px;
 }
 
-.moreabout h1{
+.moreabout h1 {
   font-size: 30px;
   text-align: center;
   color: #032d60;
@@ -819,13 +802,11 @@
   padding: 50px;
 }
 
-
 .moreaboutcol3 {
   display: flex;
   gap: 30px;
-  margin: 30px 50px; 
+  margin: 30px 50px;
 }
-
 
 .moreaboutcol3 img {
   width: 100%;
@@ -835,15 +816,12 @@
   cursor: pointer;
 }
 
-
-
 .moreaboutcol3texts {
   background-color: #fff;
   color: #050f1b;
   font-weight: 600;
   font-family: Arial, Helvetica, sans-serif;
 }
-
 
 .moreaboutcol3texts1 {
   padding: 30px 40px;
@@ -861,12 +839,12 @@
 }
 
 .moreaboutcol3texts3 p:last-of-type {
-  padding-top: 50px;
+  padding-top: 60px;
 }
 
 .moreaboutcol3texts1 h6 {
   margin-left: 5px;
-  margin-right: 250px;
+  margin-right: 200px;
   margin-bottom: 10px;
   color: #032d60;
   padding: 10px;
@@ -907,22 +885,20 @@
 
 .moreaboutcol3texts2 p:last-of-type {
   font-size: 17px;
-  padding-top: 32px;
+  padding-top: 55px;
   padding-bottom: 15px;
 }
 
- .moreaboutcol3texts2 h5 {
+.moreaboutcol3texts2 h5 {
   margin-left: 5px;
   margin-top: 5px;
   margin-bottom: 10px;
-  margin-right: 60px;
+  margin-right: 160px;
   color: #032d60;
   padding: 10px;
   background-color: #d2edff;
   border-radius: 20px;
-} 
-
-
+}
 
 .moreaboutcol3texts2 h2:hover {
   color: #33769d;
@@ -947,4 +923,9 @@
 .moreaboutcol3texts img:first-of-type {
   height: 50%;
   width: 100%;
+}
+
+
+.moreabtcol3 {
+  width: 80%;
 }
