@@ -854,6 +854,16 @@
   box-shadow: 2px 3px 7px 0px #b1afaf;
 }
 
+.moreaboutcol3texts p:last-of-type {
+  font-size: 17px;
+  padding-top: 70px;
+  padding-bottom: 10px;
+}
+
+.moreaboutcol3texts3 p:last-of-type {
+  padding-top: 50px;
+}
+
 .moreaboutcol3texts1 h6 {
   margin-left: 5px;
   margin-right: 250px;
@@ -895,7 +905,11 @@
   box-shadow: 2px 3px 7px 0px #b1afaf;
 }
 
-
+.moreaboutcol3texts2 p:last-of-type {
+  font-size: 17px;
+  padding-top: 32px;
+  padding-bottom: 15px;
+}
 
  .moreaboutcol3texts2 h5 {
   margin-left: 5px;
