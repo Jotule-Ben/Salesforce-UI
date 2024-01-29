@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -1310,4 +1314,11 @@
 .disclaimer span:hover {
   text-decoration: underline;
   color: #0176d3;
+}
+
+.img {
+  width: 20%;
+  height: 25%;
+  position: sticky;
+  /* position: fixed; */
 }
