@@ -1173,3 +1173,9 @@
   height: 100%;
   width: 130%;
 }
+
+
+.logolinks{
+margin: 50px;
+display: flex;
+}
