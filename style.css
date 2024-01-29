@@ -1106,8 +1106,8 @@
   padding: 18px 28px;
   background-color: blue;
   border: blue;
-  cursor: pointer;
   color: #fff;
+  cursor: pointer;
   font-size: 20px;
   border-radius: 5px;
   margin-top: 40px;
@@ -1119,10 +1119,57 @@
   background-color: #032d60;
 }
 
-.sec10 img{
+.sec10 img {
   margin-top: 20px;
   margin-left: 120px;
   margin-right: 120px;
   height: 100%;
   width: 80%;
+}
+
+.sec11 {
+  height: 450px;
+  display: flex;
+  margin: 60px;
+  padding: 70px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  box-shadow: 2px 3px 7px 0px #b1afaf;
+  border-radius: 20px;
+}
+
+.sec11text h1 {
+  font-size: 38px;
+  color: #032d60;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 135px;
+  margin-bottom: 25px;
+}
+
+.sec11text p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+}
+
+.sec11 button {
+  text-transform: capitalize;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 16px 25px;
+  background-color: #0176d3;
+  border: 2px solid #0176d3;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.sec11 button:hover {
+  background-color: #032d60;
+  border: 2px solid #032d60;
+}
+
+.sec11 img {
+  height: 100%;
+  width: 130%;
 }
